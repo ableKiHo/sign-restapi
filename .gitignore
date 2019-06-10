@@ -122,3 +122,5 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
+/.idea/
+/gradle/wrapper/gradle-wrapper.properties
